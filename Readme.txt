@@ -17,7 +17,7 @@ File Organization
 
 The project is coded in python.
 'Spotify Regression Modeling.ipynb' file consist of all the code for this project.
-'data_o.csv' is located inside the 'data' folder.
+'data_o.csv'(29.8MB) is the data I used for this analysis, but it cant be uploaded to github because of exceeding size..
 
 
 
